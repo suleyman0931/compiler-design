@@ -1,29 +1,45 @@
-# compiler-design
-compiler design course exercises, assignment and project 
+# 🛠️ Compiler Design Assignment
 
+## 📌 Student Details
 
+**👨‍🎓 Name:** Suleyman Abdu  
+**🆔 ID:** WDU 147312
 
-## Individual Exercise 1.      Hard Deadline March 30, 6:00 PM LT.
-### Write lex program for the following questions
-1. Program to count the number of characters, words, spaces, end of lines in a given input file.
-2. Program to validate email address
-3. Program to validate the bellow password rule
-  3.1 password should be greater that 8 characters
-   3.2 password should containe atlist one cappital letter, lower letter, digit and speciall character
-4. Lex program to implement a simple Calculator
-5. A networking company wants to validate the URL for their clients. Write a LEXprogram to implement the same.
-6. Program to validate woldia university student ID number.
-7. Program to recognize atlist 5 well know human language characters/scripts including amharic/geez scripts.
-   7.1 expline about those languages characters, specilly thier character encoding system.
-8. Program to recognize amharic/geez character/fidel order liek ሳድስ, ራብዕ , and ሳልስ and all seven.
-9. program to find the length of the longest word
-10. program to identify and count positive and negative numbers.
+## 🔗 Colab Notebook
 
-N.B Should be delivered using Google Colab single notebook file. 
-  - clone this repository
-  - install necessary prerqeuisites in colab.
-  - put each excercise code in separate cell in colab.
-  - prepare readme, write your name and ID number and the colab link.
-  - share your colab notebook to "1920esmael@gmail.com" and set general access to "Restricted".
-  - commit and push
-  - open pull request
+Click the link below to access my Google Colab notebook for this assignment:  
+[![Google Colab](https://img.shields.io/badge/Open%20Colab-Notebook-blue?logo=googlecolab)](https://colab.research.google.com/drive/1uVoe_K9GJotzX2KMgpLVyuFi6iv7-wXy?usp=sharing)
+
+## 📖 Assignment Overview
+
+This assignment focuses on **lexical analysis using Lex (Flex)** as part of **compiler design**. The main objectives include:
+
+- Implementing **regular expressions** to recognize specific patterns in text.
+- Writing **Lex programs** for **character counting, word counting, and pattern validation** (e.g., email, passwords, URLs).
+- Handling **Amharic (Ge’ez) script recognition** using Unicode.
+- Validating **Woldia University student IDs** with appropriate rules.
+
+The code is structured in **Google Colab** for easy execution, and the output demonstrates the efficiency of **lexical analysis** in handling multiple language scripts and validation tasks.
+
+---
+
+---
+
+## 🚀 How to Run
+
+To test the program, follow these steps:
+
+1. Open the [Colab Notebook](https://colab.research.google.com/drive/1uVoe_K9GJotzX2KMgpLVyuFi6iv7-wXy?usp=sharing).
+2. Run all cells sequentially.
+3. Modify the test cases as needed and observe the output.
+
+---
+
+### 📝 Author
+
+👨‍💻 **Suleyman Abdu** | **ID: WDU 147312**  
+🚀 Passionate about **Compiler Design, DevSecOps, and Software Engineering**
+
+📩 _Feel free to reach out for discussions or collaborations!_
+
+---
