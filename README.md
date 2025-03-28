@@ -31,13 +31,12 @@ To test the program, follow these steps:
 
 1. Open the [Colab Notebook](https://colab.research.google.com/drive/1uVoe_K9GJotzX2KMgpLVyuFi6iv7-wXy?usp=sharing).
 2. Run all cells sequentially.
-3. Modify the test cases as needed and observe the output.
+3. Modify the test cases as needed and observe the output .
 
 ---
 
 ### 📝 Author
 
-👨‍💻 **Suleyman Abdu** | **ID: WDU 147312**  
-🚀 Passionate about **Compiler Design, DevSecOps, and Software Engineering**
+👨‍💻 **Suleyman Abdu** | **ID: WDU 147312**
 
 ---
