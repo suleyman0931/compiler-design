@@ -21,10 +21,6 @@ This assignment focuses on **lexical analysis using Lex (Flex)** as part of **co
 
 The code is structured in **Google Colab** for easy execution, and the output demonstrates the efficiency of **lexical analysis** in handling multiple language scripts and validation tasks.
 
----
-
----
-
 ## 🚀 How to Run
 
 To test the program, follow these steps:
@@ -33,10 +29,6 @@ To test the program, follow these steps:
 2. Run all cells sequentially.
 3. Modify the test cases as needed and observe the output .
 
----
-
 ### 📝 Author
 
 👨‍💻 **Suleyman Abdu** | **ID: WDU 147312**
-
----
