@@ -40,6 +40,4 @@ To test the program, follow these steps:
 👨‍💻 **Suleyman Abdu** | **ID: WDU 147312**  
 🚀 Passionate about **Compiler Design, DevSecOps, and Software Engineering**
 
-📩 _Feel free to reach out for discussions or collaborations!_
-
 ---
